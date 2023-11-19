@@ -1,4 +1,4 @@
-<h1>If you run the code as it is you will some error related to password learn how to fix it</h1>
+<h1>If you run the code as it is you will face some error related to password learn how to fix it</h1>
 <p>Google has removed to feature to sign in using third party apps</p>
 <p>But there is an alternative </p>
 <p>Go to manage you account-: https://myaccount.google.com/?hl=en&utm_source=OGB&utm_medium=act</p>
